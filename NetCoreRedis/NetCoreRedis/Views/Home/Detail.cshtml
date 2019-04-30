@@ -1,7 +1,22 @@
-﻿
+﻿@model NetCoreRedis.Models.Person
 @{
     ViewData["Title"] = "Detail";
 }
 
-<h2>Detail</h2>
+<h3><b>Person:</b></h3>
+
+<table class="table">
+    <tr>
+        <td>Ad:</td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Soyad:</td>
+        <td>@Model.Surname</td>
+    </tr>
+    <tr>
+        <td>Yaş:</td>
+        <td>@Model.Age</td>
+    </tr>
+</table>
 

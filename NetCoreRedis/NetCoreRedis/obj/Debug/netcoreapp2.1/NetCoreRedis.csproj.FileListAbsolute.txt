@@ -21,3 +21,4 @@ C:\Users\uzmansistem\Documents\GitHub_Emrah\.NetCore-Redis\NetCoreRedis\NetCoreR
 C:\Users\uzmansistem\Documents\GitHub_Emrah\.NetCore-Redis\NetCoreRedis\NetCoreRedis\obj\Debug\netcoreapp2.1\NetCoreRedis.RazorTargetAssemblyInfo.cs
 C:\Users\uzmansistem\Documents\GitHub_Emrah\.NetCore-Redis\NetCoreRedis\NetCoreRedis\obj\Debug\netcoreapp2.1\NetCoreRedis.Views.pdb
 C:\Users\uzmansistem\Documents\GitHub_Emrah\.NetCore-Redis\NetCoreRedis\NetCoreRedis\obj\Debug\netcoreapp2.1\NetCoreRedis.csproj.CopyComplete
+C:\Users\uzmansistem\Documents\GitHub_Emrah\.NetCore-Redis\NetCoreRedis\NetCoreRedis\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.g.cshtml.cs
